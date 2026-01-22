@@ -45,7 +45,7 @@ const About = () => {
               <Button 
                 variant="outline" 
                 size="sm"
-                onClick={() => window.open('https://www.linkedin.com/in/santanuhackz?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app', '_blank')}
+                onClick={() => window.open('https://www.linkedin.com/in/santanudev?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app', '_blank')}
                 className="border-primary/20 hover:border-primary hover:bg-primary/10"
               >
                 <Linkedin className="w-4 h-4 mr-2" />
@@ -65,7 +65,7 @@ const About = () => {
               <Button 
                 variant="outline" 
                 size="sm"
-                onClick={() => window.open('https://github.com/santanu0905', '_blank')}
+                onClick={() => window.open('https://github.com/santanumangaraj', '_blank')}
                 className="border-primary/20 hover:border-primary hover:bg-primary/10"
               >
                 <Github className="w-4 h-4 mr-2" />
@@ -75,7 +75,7 @@ const About = () => {
 
             <Button 
               className="mt-8 bg-primary hover:bg-primary/90 text-primary-foreground"
-              onClick={() => window.open('Santanu-Resume.pdf', '_blank')}
+              onClick={() => window.open('Santanu_resume.pdf', '_blank')}
             >
               <Download className="w-4 h-4 mr-2" />
               Download Resume
