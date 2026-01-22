@@ -1,7 +1,7 @@
 import { Card } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { Instagram, Linkedin, Mail, Github, Download } from 'lucide-react';
-import profileImage from '@/assets/Santanu-image.jpg';
+import profileImage from '@/assets/santanu.png';
 
 const About = () => {
   return (
